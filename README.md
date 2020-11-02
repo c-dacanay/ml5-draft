@@ -2,11 +2,11 @@
 
 # ml5.js Community Statement and Code of Conduct
 
-![Banner](/img/b1.jpg "Banner1")
+<!-- ![Banner](/img/b1.jpg "Banner1") -->
 
 ## ml5.js Community Statement
 
-![Banner](/img/b2.jpg "Banner1")
+<!-- ![Banner](/img/b2.jpg "Banner1") -->
 
 Adapted from the [p5.js community statement](http://p5js.org/community/).
 
@@ -40,7 +40,7 @@ We like these hashtags: #noCodeSnobs (because we value community over efficiency
 
 ### Contribute
 
-![Banner](/img/b3.jpg "Banner1")
+<!-- ![Banner](/img/b3.jpg "Banner1") -->
 
 Our community is always looking for enthusiasts to help in all different ways.
 
@@ -52,7 +52,7 @@ Our community is always looking for enthusiasts to help in all different ways.
 
 ## Contributor Covenant Code of Conduct
 
-![Banner](/img/b4.jpg "Banner1")
+<!-- ![Banner](/img/b4.jpg "Banner1") -->
 
 ### Our Pledge
 
@@ -99,7 +99,7 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 ### Attribution
 
-![Banner](/img/b5.jpg "Banner1")
+<!-- ![Banner](/img/b5.jpg "Banner1") -->
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
 
