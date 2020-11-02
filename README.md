@@ -1,3 +1,5 @@
+![Banner](/img/banner-top.jpg "Banner Top")
+
 # ml5.js Community Statement and Code of Conduct
 
 ![Banner](/img/b1.jpg "Banner1")
